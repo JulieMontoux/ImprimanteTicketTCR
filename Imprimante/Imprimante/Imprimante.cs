@@ -1,10 +1,10 @@
 ﻿namespace Imprimante
 {
-    internal class Program
+    public class Imprimante
     {
-        static void Main(string[] args)
+        public void HelloWorld()
         {
-            Console.WriteLine("Hello, World!");
+            var attendu = "Hello, World!";
         }
     }
 }
