@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Imprimante")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c95a6d845fad5232bf81050ed18f28bf68e2ce1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e1da59b969c8d0b65cec12c4129f83e3d860281")]
 [assembly: System.Reflection.AssemblyProductAttribute("Imprimante")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Imprimante")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
