@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imprimante", "Imprimante\Imprimante.csproj", "{A9EEA49D-17F5-4E8D-8908-B461E18C5DBC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsImprimante", "TestsImprimante\TestsImprimante.csproj", "{B1C94ACB-4CDD-403A-878A-6FAF837AAABD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A9EEA49D-17F5-4E8D-8908-B461E18C5DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A9EEA49D-17F5-4E8D-8908-B461E18C5DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A9EEA49D-17F5-4E8D-8908-B461E18C5DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A9EEA49D-17F5-4E8D-8908-B461E18C5DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C94ACB-4CDD-403A-878A-6FAF837AAABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C94ACB-4CDD-403A-878A-6FAF837AAABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C94ACB-4CDD-403A-878A-6FAF837AAABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C94ACB-4CDD-403A-878A-6FAF837AAABD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

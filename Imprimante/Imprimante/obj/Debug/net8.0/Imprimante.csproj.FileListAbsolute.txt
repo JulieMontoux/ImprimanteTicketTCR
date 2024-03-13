@@ -1,0 +1,5 @@
+X:\ImprimanteTicketTCR\Imprimante\Imprimante\obj\Debug\net8.0\Imprimante.GeneratedMSBuildEditorConfig.editorconfig
+X:\ImprimanteTicketTCR\Imprimante\Imprimante\obj\Debug\net8.0\Imprimante.AssemblyInfoInputs.cache
+X:\ImprimanteTicketTCR\Imprimante\Imprimante\obj\Debug\net8.0\Imprimante.AssemblyInfo.cs
+X:\ImprimanteTicketTCR\Imprimante\Imprimante\obj\Debug\net8.0\Imprimante.csproj.CoreCompileInputs.cache
+X:\ImprimanteTicketTCR\Imprimante\Imprimante\obj\Debug\net8.0\Imprimante.sourcelink.json

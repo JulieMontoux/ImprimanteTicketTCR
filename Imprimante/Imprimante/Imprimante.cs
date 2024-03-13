@@ -2,9 +2,9 @@
 {
     public class Imprimante
     {
-        public void HelloWorld()
+        public string HelloWorld()
         {
-            var attendu = "Hello, World!";
+            return "Hello, World!";
         }
     }
 }
